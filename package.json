@@ -1,0 +1,28 @@
+{
+  "name": "plastiq-jsxify",
+  "version": "1.0.0",
+  "description": "browserify jsx transform for plastiq",
+  "main": "index.js",
+  "dependencies": {
+    "jsx-transform": "2.2.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "jsx",
+    "browserify",
+    "plastiq"
+  ],
+  "author": "Tim Macfarlane <timmacfarlane@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/featurist/plastiq-jsxify.git"
+  },
+  "bugs": {
+    "url": "https://github.com/featurist/plastiq-jsxify/issues"
+  },
+  "homepage": "https://github.com/featurist/plastiq-jsxify"
+}
