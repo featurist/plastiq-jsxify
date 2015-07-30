@@ -23,5 +23,5 @@ npm i plastiq-jsxify
 # usage
 
 ```bash
-browserify -t plastiq-jsxify index.js > bundle.js
+browserify -t plastiq-jsxify index.jsx > bundle.js
 ```
