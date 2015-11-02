@@ -1,3 +1,20 @@
+# deprecated: use babel!
+
+To use [babel](https://babeljs.io/) instead:
+
+Start your file with:
+
+```jsx
+/** @jsx plastiq.html */
+var plastiq = require('plastiq');
+```
+
+Then:
+
+```bash
+browserify -t babel index.jsx > bundle.js
+```
+
 # JSX + plastiq + browserify
 
 ```jsx
